@@ -48,9 +48,9 @@ The .png and .pdf files serve as a visual summary of the project's results, whic
 
 - Plotted DBSCAN cluster results, with bounding boxes and vehicles color-coded.
 
-- Tracking of the vehicles accros frames
+- Tracking of the vehicles across frames
 
 ## Data
 
-The data is represent in .csv files, which represent the point cloud obtained with the help of LiDAR.
+The data is represented in .csv files, which correspond to the point cloud obtained with the help of LiDAR.
 For the static frames, the data can be found in the **data** folder, whereas for the video, the data can be found in the **pointcloud** folder
