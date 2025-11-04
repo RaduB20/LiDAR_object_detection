@@ -1,6 +1,6 @@
 # 3D Point Cloud Vehicle Detection and Tracking
 
-This project demonstrates a complete pipeline for detecting and tracking vehicles from 3D point cloud data (LiDAR scans). The analysis is broken into two parts: first, identifying vehicles in a single static frame, and second, tracking those vehicles across a sequence of 300+ frames.
+This project demonstrates a complete pipeline for detecting and tracking vehicles from 3D point cloud data (LiDAR scans) obtained on a highway. The analysis is broken into two parts: first, identifying vehicles in a single static frame, and second, tracking those vehicles across a sequence of 300+ frames.
 
 **Key Technologies & Concepts Demonstrated**
 
@@ -42,7 +42,7 @@ This required expanding the initial pipeline to handle the time dimension:
 
 ## Results & Visualizations
 
-The .png and .pdf files serve as a visual summary of the project's results, which can be found in the **images** folder. They showcase:
+The .png and .pdf files serve as a visual summary of the project's results, which can be found in the **Finals** folder. They showcase:
 
 - Visualizations of the 3D point cloud before and after preprocessing.
 
