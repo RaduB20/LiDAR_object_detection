@@ -44,8 +44,6 @@ This required expanding the initial pipeline to handle the time dimension:
 
 The .png and .pdf files serve as a visual summary of the project's results, which can be found in the **Finals** folder. They showcase:
 
-- Visualizations of the 3D point cloud before and after preprocessing.
-
 - Plotted DBSCAN cluster results, with bounding boxes and vehicles color-coded.
 
 - Tracking of the vehicles across frames
