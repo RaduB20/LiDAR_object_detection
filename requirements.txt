@@ -1,0 +1,7 @@
+jupyterlab
+pandas
+numpy
+plotly
+scikit-learn
+hdbscan
+scipy
